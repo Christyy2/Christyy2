@@ -7,17 +7,41 @@
 
 ## 📋Table des matières
 - [À propos](#à-propos)
-- [Compétences](#compétences)
+- [Compétences](#-compétences)
 - [Projets](#-projets)
 - [Contact](#-contact)
 
 ---
 
 ## À propos
-- ☺️ Je suis Christy
-- 👩‍💻 Développeuse, une enthousiaste de la technologie qui aime beaucoup apprendre
+Je suis **Christy Gérys LAMBERT**, mes amis m'appellent m'appellent *Tracy*, je suis une développeuse Web Full Stack, étudiante en 3e année à l'**Institut Universitaire des Sciences** basé à Jacmel,HT.
+
 ## 🛠 Compétences
+1. Frontend
+- HTML5
+- CSS3
+- JS
+  
+2. Backend
+- PHP
+- React native
+- Python
+  
+3. Administration Systèmes
+- Linux
+- Windows
+
+4. Réseaux
+- Cisco Packet Tracer
+- Wireshark
+
+5. Outils & Environnememt
+- Git / Github
+- VS Code
+
 ## 🚀 Projets
+[Mon portfolio](https://christyy2.github.io/christy-portfolio.github/)
+
 ## 📬 Contact
 
 - ☺️ Hi, I’m Christy 
