@@ -1,6 +1,7 @@
 # 👨‍💻Christy Gérys LAMBERT
 <img width="300" height="300" alt="profil" src="https://github.com/user-attachments/assets/76abafcb-7b91-4ca7-87e2-e94ec91bb985" />
 
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFDD0&width=800&height=60&lines=Bienvenue+sur+mon+profil+!;Je+suis+développeuse+passionnée)
 
 ---
@@ -39,10 +40,19 @@ Je suis **Christy Gérys LAMBERT**, mes amis m'appellent m'appellent *Tracy*, je
 - Git / Github
 - VS Code
 
+6. En apprentissage
+- [ ] Kali Linux
+- [ ] React Native
+- [ ] Machine Learning
+- [x] Modélisation Mathématique  
+
 ## 🚀 Projets
 [Mon portfolio](https://christyy2.github.io/christy-portfolio.github/)
 
 ## 📬 Contact
+| Colonne 1 | Colonne 2 | Colonne 3 |
+|:---------:|:---------:|:---------:|
+| Valeur 1  | Valeur 2  | Valeur 3  |
 
 - ☺️ Hi, I’m Christy 
 - 👩‍💻 Developer,tech enthusiast and lifelong leraner
