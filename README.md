@@ -11,7 +11,7 @@
 - [Compétences](#-compétences)
 - [Projets](#-projets)
 - [Expériences](#-expériences)
-- [Contact](#-contact)
+- [Contact](#contact)
 
 ---
 
@@ -77,6 +77,11 @@ flowchart LR
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" />
 </p>
+
+## Contact
+- 📧 Email : chrisbert2003@gmail.com
+- 🐙 GitHub : 
+
 
 ---
 <p align="center">
